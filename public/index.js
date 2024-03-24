@@ -14,7 +14,6 @@ const markdownToHtml = (markdown) => {
 
     const parseParagraph = (line) => {
         const paragraphRegex = /^([a-zA-Z].*)/;
-        ;
         const match = line.match(paragraphRegex);
         if (match) {
             return `<p>${line}</p>`;
