@@ -281,6 +281,46 @@
     background-color: #45a049;
 }
 
+.style-142 {
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.style-143 {
+    margin-right: -15px;
+    margin-left: -15px;
+    box-sizing: border-box;
+}
+
+.style-144 {
+    width: 100%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-145 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 1px solid rgb(238, 238, 238);
+    box-sizing: content-box;
+    height: 0px;
+    border: 0px;
+}
+
+.style-146 {
+    margin: 0px 0px 10px;
+    box-sizing: border-box;
+}
+
 
 /* For Tablet View */
 @media screen and (min-device-width: 768px) and (max-device-width: 1024px) {
